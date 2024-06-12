@@ -1,1 +1,1 @@
-# The place where we maintain Roman technical information
+# Roman Technical Information Repository
