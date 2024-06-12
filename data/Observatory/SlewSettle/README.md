@@ -22,4 +22,5 @@ The times for some example telescope slews are presented in the table below. The
 ## Included files
 
 | Filename | Description | Last Updated |
+|----------|-------------|--------------|
 | SlewSettle.ecsv| Slew + settle times as a function of slew distance|2023-12-10|
