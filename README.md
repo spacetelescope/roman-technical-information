@@ -11,7 +11,7 @@ This repository hosts technical information related to the Nancy Grace Roman Spa
 
 The information in this respository is tagged for releases. We encourage users to use the released versions to better communicate the version of the information used, particularly as some items are updated frequently during the integration and test process.
 
-The directory structure within the repository nests information related to the spacecraft, the WFI, and the Coronagraph. Each folder contains a README.md file that describes the information contained within as well as giving the update history for the information.
+Within the data/ directory, information related to the spacecraft, the WFI, and the Coronagraph are broken out into separate subdirectories. Each folder contains a README.md file that describes the information contained within as well as giving the update history for the information.
 
 # Contributions and Feedback
 
