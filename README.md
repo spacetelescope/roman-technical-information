@@ -5,7 +5,7 @@ This repository hosts technical information related to the Nancy Grace Roman Spa
 * Roman Science Support Center (SSC) at the Infrared Processing and Analysis Center (IPAC)
 * Project Infrastructure and Wide Field Science Teams
 * Committees performing definition of the community survey programs
-* The Roman user community
+* Roman user community
 
 # Using this Repository
 
