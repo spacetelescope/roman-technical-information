@@ -5,7 +5,7 @@ The Nancy Grace Roman Space Telescope is a next-generation observatory due for l
 
 - Duration: Five years, with a 10 year goal
 - Orbit: Sun-Earth L2
-- Launch Site: Cape Canaveral
+- Launch Site: Kennedy Space Center, Florida, USA
 - Baseline Launch Vehicle: Falcon Heavy
 - Operating Temperature: 298 K
 - S/C Bus:
