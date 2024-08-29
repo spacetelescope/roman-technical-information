@@ -5,5 +5,5 @@
 
 | Filename                         | Description                                    | Last Updated |
 |----------------------------------|------------------------------------------------|--------------|
-| AB_mag_limiting_Sensitivity.ecsv | Roman/WFI AB magnitude limiting sensitivities. | 2024-June-03 |
+| AB_mag_limiting_Sensitivity.ecsv | Roman/WFI AB magnitude limiting sensitivities. | 2024-Jun-03 |
 
