@@ -1,4 +1,4 @@
-# Roman/WFI Imaging Filters
+# Roman/WFI Imaging Filters Summary Parameters
 
 ## Included files
 
