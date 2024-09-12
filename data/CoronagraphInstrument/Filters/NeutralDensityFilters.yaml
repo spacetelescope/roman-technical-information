@@ -1,0 +1,5 @@
+---
+Attenuation_Factors:
+  FPAM: 10^2.25
+  FPAM: 10^4.75
+  FSAM: 10^4.75
