@@ -7,7 +7,7 @@ Pixel_Scale: 0.0218 arcsec/pixel
 
 Saturation: 80000 e-
 
-Readnoise: 120	e-
+Readnoise: 160	e-
 
 Dark_Current:
   Beginning_of_Life_Current_Best_Estimate: 0.05 e-/pixel/hour
