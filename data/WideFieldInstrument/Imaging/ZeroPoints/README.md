@@ -15,7 +15,7 @@ The following is included in the metadata of the ECSV file and may be retrieved 
 from astropy.table import Table
 
 table = Table.read('Roman_zeropoints_20240301.ecsv')
-print(table.meta['comments]')
+print(table.meta['comments'])
 ```
 
 Zero points for each detector and imaging optical element (filter) using effective area curves as of 2024 03 01.
