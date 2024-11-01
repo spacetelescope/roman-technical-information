@@ -1,5 +1,5 @@
 # Mission and Observatory
-The Nancy Grace Roman Space Telescope is a next-generation observatory due for launch no later than May 2027. The mission lifetime is approximately five years, with an estimated close out time of three months. Key characteristics of the mission are listed below:
+The Nancy Grace Roman Space Telescope is a next-generation observatory due for launch no later than May 2027. The mission lifetime is at least five years, with an estimated close out time of three months. Key characteristics of the mission are listed below:
 
 ## Mission and Spacecraft Parameters
 

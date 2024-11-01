@@ -2,7 +2,7 @@
 
 ## Mission parameters
 
-The data file include parameters on mission
+The data files included here describe Roman mission-level information.
 
 ## Orbit
 Included here are CCSDS Orbit Ephemeris Message (OEM) format files for four different launch scenarios.The step size is one day, and it is in Earth J2000 coordinates.
