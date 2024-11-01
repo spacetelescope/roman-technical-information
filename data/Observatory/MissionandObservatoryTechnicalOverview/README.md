@@ -33,6 +33,6 @@ The Roman observatory split into its spacecraft (red) and integrated payload (pu
 
 ## Included files
 
-| Filename                  | Description                                                                   | Last Updated |
-|---------------------------|-------------------------------------------------------------------------------|--------------|
-| MissionanObservatory.yaml | Mission, spacecraft, and telescope parameters and observatory instrumentation | 2024-Aug-05  |
+| Filename| Description|
+|---------|------------|
+| MissionanObservatory.yaml | Mission, spacecraft, and telescope parameters and observatory instrumentation |

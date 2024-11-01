@@ -2,7 +2,6 @@
 
 ## Included files
 
-| Filename                          | Description                                          | Last Updated |
-|-----------------------------------|------------------------------------------------------|--------------|
-| internal_thermal_backgrounds.ecsv | Roman estimated thermal backgrounds for WFI imaging. | 2024-Jun-03 |
-
+| Filename| Description|
+|---------|------------|
+| internal_thermal_backgrounds.ecsv | Roman estimated thermal backgrounds for WFI imaging. |

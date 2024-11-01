@@ -21,7 +21,7 @@ The times for some example telescope slews are presented in the table below. The
 
 ## Included files
 
-| Filename                     | Description                                                                   | Last Updated |
-|------------------------------|-------------------------------------------------------------------------------|--------------|
-| SlewSettle.ecsv              | Slew and settle times as a function of slew distance                          | 2023-Dec-10  |
-| example_telescope_slews.yaml | Example slew types/angles and associated slew and settle times in YAML format | 2023-Dec-10  |
+| Filename| Description|
+|---------|------------|
+| SlewSettle.ecsv              | Slew and settle times as a function of slew distance                          |
+| example_telescope_slews.yaml | Example slew types/angles and associated slew and settle times in YAML format |

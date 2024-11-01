@@ -17,11 +17,11 @@ A full set of visibility plots with declination increasing at intervals of 5 deg
 
 ## Included files
 
-| Filename | Description                                                                        | Last Updated  |
-|----------|------------------------------------------------------------------------------------|---------------|
-| radec_vis.tar | Visibility plots with declination increasing at intervals of 5 deg in .eps format. | 2021-Mar-28 |
-| Roman_Field_of_regard.png | Image showing the Roman field of regard                                            |               |
-| Optical_Field_Layout_of_the_observatory.png | Image showing the optical field layout of the observatory                          |               |
-| roman_radec_vis_m30.jpg| Image showing the visibility at Dec. = -30 deg                                     |               |
-| roman_radec_vis_m65.jpg| Image showing the visibility at Dec. = -65 deg                                     |               |
-| test_tgt_vis2.py | Python code to explore visibility and available roll angles                        | 2021-Sep-04  |
+| Filename| Description|
+|---------|------------|
+| radec_vis.tar | Visibility plots with declination increasing at intervals of 5 deg in .eps format. | 
+| Roman_Field_of_regard.png | Image showing the Roman field of regard |
+| Optical_Field_Layout_of_the_observatory.png | Image showing the optical field layout of the observatory|
+| roman_radec_vis_m30.jpg| Image showing the visibility at Dec. = -30 deg|
+| roman_radec_vis_m65.jpg| Image showing the visibility at Dec. = -65 deg|
+| test_tgt_vis2.py | Python code to explore visibility and available roll angles|
