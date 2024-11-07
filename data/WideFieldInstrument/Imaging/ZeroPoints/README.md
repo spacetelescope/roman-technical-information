@@ -2,10 +2,9 @@
 
 ## Included files
 
-
-| Filename                          | Description                                                                     | Last Updated |
-|-----------------------------------|---------------------------------------------------------------------------------|--------------|
-| Roman_zeropoints_20240301.ecsv | Roman/WFI imaging filter zero points by SCA | 2024-Mar |
+| Filename| Description|
+|---------|------------|
+| Roman_zeropoints_20240301.ecsv | Roman/WFI imaging filter zero points by SCA |
 
 ## Description
 

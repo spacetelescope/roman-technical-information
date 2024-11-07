@@ -4,7 +4,6 @@
 
 ## Included files
 
-| Filename               | Description                                                       | Last Updated |
-|------------------------|-------------------------------------------------------------------|--------------|
-| filter_parameters.ecsv | Roman/WFI filter parameters based on the post-CDR optical design. | 2024-Jul-25 |
-
+| Filename| Description|
+|---------|------------|
+| filter_parameters.ecsv | Roman/WFI filter parameters based on the post-CDR optical design. |
