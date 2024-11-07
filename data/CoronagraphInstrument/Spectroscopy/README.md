@@ -1,4 +1,4 @@
-# Roman Coronagraph Detector Parameters
+# Roman Coronagraph Spectroscopy Parameters
 
 ## Included files
 
