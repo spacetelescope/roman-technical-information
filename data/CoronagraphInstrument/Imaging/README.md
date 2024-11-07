@@ -1,4 +1,4 @@
-# Roman Coronagraph Detector Parameters
+# Roman Coronagraph Imaging Parameters
 
 ## Included files
 
