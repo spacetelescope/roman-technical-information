@@ -1,5 +1,5 @@
 ---
 Attenuation_Factors:
-  FPAM: 10^2.25
-  FPAM: 10^4.75
+  FPAM: 10^2.25 (used for target acquisition)
+  FPAM: 10^4.75 (used for target acquisition)
   FSAM: 10^4.75
