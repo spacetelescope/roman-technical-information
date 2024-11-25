@@ -15,7 +15,8 @@ The Nancy Grace Roman Space Telescope is a next-generation observatory due for l
 - Able to be refueled in flight robotically
 
 ## Telescope Parameters 
-- Primary Mirror size: 2.4 meters
+- Primary Mirror diameter: 2.4 meters
+- Primary mirror effective diameter: 2.36 meters (diameter of the aperture stop)
 - Mirror temperature: 265 K
 - Allowed roll angle range: -15 to +15 degrees around angle providing max solar power
 - Jitter: 12 milliarcseconds
