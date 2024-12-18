@@ -8,7 +8,7 @@
 # - {name: Percentage Passing Req., unit: '%', datatype: float64, description: Percentage of pixels meeting the requirements.}
 # delimiter: ','
 # schema: astropy-2.0
-SCU#,SCA,Total noise - median,Total noise - mean,Percentage Passing Req.
+SCU#,SCA,Total noise - median,Total noise - mean,Percentage Passing Requirement
 1,22081,6.67,7.52,98.86
 2,21815,5.6,6.02,99.59
 3,21946,5.76,6.19,99.45

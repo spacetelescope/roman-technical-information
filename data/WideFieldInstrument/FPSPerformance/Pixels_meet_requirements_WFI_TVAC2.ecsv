@@ -3,8 +3,8 @@
 # datatype:
 # - {name: SCU#, unit: '', datatype: string, description: Sensor control unit (SCU) number}
 # - {name: SCA, unit: '', datatype: string, description: Sensor Chip Assembly (SCA) serial number}
-# - {name: Number of bad pixels, unit: '', datatype: string, description: Number of bad pixels}
-# - {name: percentage good pixels, unit: '%', datatype: float64, description: percentage good pixels}
+# - {name: Number of bad pixels, unit: '', datatype: string, description: Number of "bad" pixels that do not meet requirements}
+# - {name: percentage good pixels, unit: '%', datatype: float64, description: percentage of "good" pixels that do meet requirements}
 # delimiter: ','
 # schema: astropy-2.0
 SCU#,SCA,Number of bad pixels,percentage good pixels
