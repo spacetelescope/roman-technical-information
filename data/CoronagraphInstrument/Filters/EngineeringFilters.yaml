@@ -1,4 +1,6 @@
 ---
+Description: Roman Coronagraph "engineering" filters (primary used for digging the dark hole).
+
 Central_Wavelengths:
   Band1a: 554.8 nm
   Band1b: 574.5 nm

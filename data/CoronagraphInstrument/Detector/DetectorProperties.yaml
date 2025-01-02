@@ -1,4 +1,6 @@
 ---
+Description: Roman Coronagraph EXCAM detector properties.
+
 Detector_Model: T-e2v CCD 311
 Pixels_X: 1056
 Pixels_Y: 1037

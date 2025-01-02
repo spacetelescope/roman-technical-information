@@ -1,3 +1,6 @@
+---
+Description: Roman telescope example slew angles and associated slew times.
+
 slew_type:
   gap_fill:
     slew_angle_deg: 0.025

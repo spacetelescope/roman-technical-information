@@ -1,4 +1,6 @@
 ---
+Description: Roman Coronagraph "primary" filters (Bands 1-4).
+
 Central_Wavelengths:
   Band1: 573.8 nm
   Band2: 659.4 nm

@@ -9,8 +9,8 @@ from astropy import units as u
 obs_last_updated = "2024-June-03"
 uv_last_updated = "2024-June-03"
 
-obs_comments = ["Observatory roll angle and body axes to Sun angles for declination = ", " right ascension = 90 degrees."]
-uv_comments = ["Unit vectors for Sun and normal to Solar Array/Sun Shield for declination = ", " right ascension = 90 degrees."]
+obs_comments = ["Roman observatory roll angle and body axes to Sun angles for declination = ", " right ascension = 90 degrees."]
+uv_comments = ["Roman unit vectors for Sun and normal to Solar Array/Sun Shield for declination = ", " right ascension = 90 degrees."]
 
 
 df = pd.read_table("roman_nomroll_sunang_test.txt")

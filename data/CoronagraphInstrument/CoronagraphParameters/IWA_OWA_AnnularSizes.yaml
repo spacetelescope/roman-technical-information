@@ -1,4 +1,6 @@
 ---
+Description: The Roman Coronagraph's Inner Working Angles (IWA), Outer Working Angles (OWA), and Annular Sizes for its Hybrid Lyot, Shaped Pupil (Annular), and Shaped Pupil (Bowtie) coronagraph masks.
+
 Inner_Working_Angles:
   hybrid_lyot: 3 lambda/D
   shaped_pupil_annular: 5.9 lambda/D
