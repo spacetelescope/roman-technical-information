@@ -21,6 +21,8 @@
 # - {name: SCU 17, unit: '', datatype: float64, description: Sensor Control Unit Number 17}
 # - {name: SCU 18, unit: '', datatype: float64, description: Sensor Control Unit Number 18}
 # delimiter: ','
+# meta: !!omap
+# - {comments: Roman/WFI quantum efficiency as a function of Sensor Control Unit (SCU) and wavelength}
 # schema: astropy-2.0
 wavelength,SCU 1,SCU 2,SCU 3,SCU 4,SCU 5,SCU 6,SCU 7,SCU 8,SCU 9,SCU 10,SCU 11,SCU 12,SCU 13,SCU 14,SCU 15,SCU 16,SCU 17,SCU 18
 480.0,0.42515548,0.41987226,0.43598512,0.42214664,0.434427,0.457477866,0.44313118,0.43873108,0.44366969,0.439528418,0.43413964,0.43466828,0.44127537,0.41608587,0.45265907,0.45157876,0.4624326,0.42807077

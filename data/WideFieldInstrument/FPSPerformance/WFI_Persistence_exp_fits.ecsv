@@ -13,6 +13,8 @@
 # - {name: e, unit: 1 / s, datatype: float64, description: Coefficient 'e' of an exponential fit (= a*exp(-b*x) + d*exp(-e*x) + c) to
 #     the Roman/WFI median persistence}
 # delimiter: ','
+# meta: !!omap
+# - {comments: Roman/WFI coefficients of an exponential fit to persistence measurements}
 # schema: astropy-2.0
 SCA,a,b,c,d,e
 1,0.0630975242491005,0.00223961641358588,0.00257429338240526,0.746862190043635,0.011286859153504

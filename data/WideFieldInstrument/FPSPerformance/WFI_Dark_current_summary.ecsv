@@ -10,6 +10,8 @@
 # - {name: Percentage Passing Requirement, unit: '%', datatype: float64, description: Roman/WFI number of pixels passing dark current
 #     requirement (0.05 e-/sec)}
 # delimiter: ','
+# meta: !!omap
+# - {comments: Roman/WFI dark current summary}
 # schema: astropy-2.0
 SCU,SCA,Dark Current - Median,Dark Current - Mean,Percentage Passing Requirement
 1,22081,0.019,0.049,99.63

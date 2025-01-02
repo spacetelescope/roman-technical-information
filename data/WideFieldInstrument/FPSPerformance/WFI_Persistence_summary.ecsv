@@ -39,6 +39,8 @@
 # - {name: SCA 18, unit: electron / s, datatype: float64, description: Roman/WFI persistence measurements over time for sensor chip assembly
 #     (SCA) 18 at nominational operating temperture (89.5K)}
 # delimiter: ','
+# meta: !!omap
+# - {comments: Roman/WFI persistence measurements}
 # schema: astropy-2.0
 time,SCA 1,SCA 2,SCA 3,SCA 4,SCA 5,SCA 6,SCA 7,SCA 8,SCA 9,SCA 10,SCA 11,SCA 12,SCA 13,SCA 14,SCA 15,SCA 16,SCA 17,SCA 18
 177.072,0.146235,0.26914,0.208909,0.715303,0.166129,0.321581,0.170376,0.221845,0.249611,0.257818,0.229222,0.568741,0.276093,0.178377,0.165413,0.211329,0.224006,0.36455
