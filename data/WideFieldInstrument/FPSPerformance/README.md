@@ -6,7 +6,7 @@
 
 | Filename| Description|
 |---------|------------|
-| SCU_to_SCU.ecsv | Roman/WFI SCU to SCA mapping. |
+| WFI_SCU_to_SCA.ecsv | Roman/WFI SCU to SCA mapping. |
 | WFI_CDS_Noise_summary.ecsv | Roman/WFI TVAC2 NomOp correlated double sampling (CDS) noise measurements (mean and medians) for each SCA. |
 | WFI_Dark_current_summary.ecsv | Roman/WFI TVAC2 NomOp dark current measurements (means, medians, and percentage of pixels passing the dark current requirement) for each SCA. NOTE: These measurements are representative of the instrument internal thermal background rather than the true dark current floor of the detectors. |
 | WFI_Persistence_summary.ecsv | Roman/WFI TVAC2 NomOp persistence measurements as a function of time for each SCA. The persistence decay was measured using 10 regularly spaced darks spanning at total time of 1770 secs (~30 min) following exposures of 56 frames each where the detectors were exposed to ~900 e-/s flat field illumination, for a total of ~159 ke- of charge accumulation. |
