@@ -2,47 +2,47 @@
 # ---
 # datatype:
 # - {name: time, unit: s, datatype: float64, description: Time}
-# - {name: SCA 1, unit: electron / s, datatype: float64, description: Roman/WFI persistence measurements over time for sensor chip assembly
-#     (SCA) 1 at nominal operating temperture (89.5K)}
-# - {name: SCA 2, unit: electron / s, datatype: float64, description: Roman/WFI persistence measurements over time for sensor chip assembly
-#     (SCA) 2 at nominal operating temperture (89.5K)}
-# - {name: SCA 3, unit: electron / s, datatype: float64, description: Roman/WFI persistence measurements over time for sensor chip assembly
-#     (SCA) 3 at nominal operating temperture (89.5K)}
-# - {name: SCA 4, unit: electron / s, datatype: float64, description: Roman/WFI persistence measurements over time for sensor chip assembly
-#     (SCA) 4 at nominal operating temperture (89.5K)}
-# - {name: SCA 5, unit: electron / s, datatype: float64, description: Roman/WFI persistence measurements over time for sensor chip assembly
-#     (SCA) 5 at nominal operating temperture (89.5K)}
-# - {name: SCA 6, unit: electron / s, datatype: float64, description: Roman/WFI persistence measurements over time for sensor chip assembly
-#     (SCA) 6 at nominal operating temperture (89.5K)}
-# - {name: SCA 7, unit: electron / s, datatype: float64, description: Roman/WFI persistence measurements over time for sensor chip assembly
-#     (SCA) 7 at nominal operating temperture (89.5K)}
-# - {name: SCA 8, unit: electron / s, datatype: float64, description: Roman/WFI persistence measurements over time for sensor chip assembly
-#     (SCA) 8 at nominal operating temperture (89.5K)}
-# - {name: SCA 9, unit: electron / s, datatype: float64, description: Roman/WFI persistence measurements over time for sensor chip assembly
-#     (SCA) 9 at nominal operating temperture (89.5K)}
-# - {name: SCA 10, unit: electron / s, datatype: float64, description: Roman/WFI persistence measurements over time for sensor chip assembly
-#     (SCA) 10 at nominal operating temperture (89.5K)}
-# - {name: SCA 11, unit: electron / s, datatype: float64, description: Roman/WFI persistence measurements over time for sensor chip assembly
-#     (SCA) 11 at nominal operating temperture (89.5K)}
-# - {name: SCA 12, unit: electron / s, datatype: float64, description: Roman/WFI persistence measurements over time for sensor chip assembly
-#     (SCA) 12 at nominal operating temperture (89.5K)}
-# - {name: SCA 13, unit: electron / s, datatype: float64, description: Roman/WFI persistence measurements over time for sensor chip assembly
-#     (SCA) 13 at nominal operating temperture (89.5K)}
-# - {name: SCA 14, unit: electron / s, datatype: float64, description: Roman/WFI persistence measurements over time for sensor chip assembly
-#     (SCA) 14 at nominal operating temperture (89.5K)}
-# - {name: SCA 15, unit: electron / s, datatype: float64, description: Roman/WFI persistence measurements over time for sensor chip assembly
-#     (SCA) 15 at nominal operating temperture (89.5K)}
-# - {name: SCA 16, unit: electron / s, datatype: float64, description: Roman/WFI persistence measurements over time for sensor chip assembly
-#     (SCA) 16 at nominal operating temperture (89.5K)}
-# - {name: SCA 17, unit: electron / s, datatype: float64, description: Roman/WFI persistence measurements over time for sensor chip assembly
-#     (SCA) 17 at nominal operating temperture (89.5K)}
-# - {name: SCA 18, unit: electron / s, datatype: float64, description: Roman/WFI persistence measurements over time for sensor chip assembly
-#     (SCA) 18 at nominal operating temperture (89.5K)}
+# - {name: SCU 1, unit: electron / s, datatype: float64, description: Roman/WFI persistence measurements over time for sensor control
+#     unit (SCU) 1 at nominal operating temperture (89.5K)}
+# - {name: SCU 2, unit: electron / s, datatype: float64, description: Roman/WFI persistence measurements over time for sensor control
+#     unit (SCU) 2 at nominal operating temperture (89.5K)}
+# - {name: SCU 3, unit: electron / s, datatype: float64, description: Roman/WFI persistence measurements over time for sensor control
+#     unit (SCU) 3 at nominal operating temperture (89.5K)}
+# - {name: SCU 4, unit: electron / s, datatype: float64, description: Roman/WFI persistence measurements over time for sensor control
+#     unit (SCU) 4 at nominal operating temperture (89.5K)}
+# - {name: SCU 5, unit: electron / s, datatype: float64, description: Roman/WFI persistence measurements over time for sensor control
+#     unit (SCU) 5 at nominal operating temperture (89.5K)}
+# - {name: SCU 6, unit: electron / s, datatype: float64, description: Roman/WFI persistence measurements over time for sensor control
+#     unit (SCU) 6 at nominal operating temperture (89.5K)}
+# - {name: SCU 7, unit: electron / s, datatype: float64, description: Roman/WFI persistence measurements over time for sensor control
+#     unit (SCU) 7 at nominal operating temperture (89.5K)}
+# - {name: SCU 8, unit: electron / s, datatype: float64, description: Roman/WFI persistence measurements over time for sensor control
+#     unit (SCU) 8 at nominal operating temperture (89.5K)}
+# - {name: SCU 9, unit: electron / s, datatype: float64, description: Roman/WFI persistence measurements over time for sensor control
+#     unit (SCU) 9 at nominal operating temperture (89.5K)}
+# - {name: SCU 10, unit: electron / s, datatype: float64, description: Roman/WFI persistence measurements over time for sensor control
+#     unit (SCU) 10 at nominal operating temperture (89.5K)}
+# - {name: SCU 11, unit: electron / s, datatype: float64, description: Roman/WFI persistence measurements over time for sensor control
+#     unit (SCU) 11 at nominal operating temperture (89.5K)}
+# - {name: SCU 12, unit: electron / s, datatype: float64, description: Roman/WFI persistence measurements over time for sensor control
+#     unit (SCU) 12 at nominal operating temperture (89.5K)}
+# - {name: SCU 13, unit: electron / s, datatype: float64, description: Roman/WFI persistence measurements over time for sensor control
+#     unit (SCU) 13 at nominal operating temperture (89.5K)}
+# - {name: SCU 14, unit: electron / s, datatype: float64, description: Roman/WFI persistence measurements over time for sensor control
+#     unit (SCU) 14 at nominal operating temperture (89.5K)}
+# - {name: SCU 15, unit: electron / s, datatype: float64, description: Roman/WFI persistence measurements over time for sensor control
+#     unit (SCU) 15 at nominal operating temperture (89.5K)}
+# - {name: SCU 16, unit: electron / s, datatype: float64, description: Roman/WFI persistence measurements over time for sensor control
+#     unit (SCU) 16 at nominal operating temperture (89.5K)}
+# - {name: SCU 17, unit: electron / s, datatype: float64, description: Roman/WFI persistence measurements over time for sensor control
+#     unit (SCU) 17 at nominal operating temperture (89.5K)}
+# - {name: SCU 18, unit: electron / s, datatype: float64, description: Roman/WFI persistence measurements over time for sensor control
+#     unit (SCU) 18 at nominal operating temperture (89.5K)}
 # delimiter: ','
 # meta: !!omap
 # - {comments: Roman/WFI persistence measurements}
 # schema: astropy-2.0
-time,SCA 1,SCA 2,SCA 3,SCA 4,SCA 5,SCA 6,SCA 7,SCA 8,SCA 9,SCA 10,SCA 11,SCA 12,SCA 13,SCA 14,SCA 15,SCA 16,SCA 17,SCA 18
+time,SCU 1,SCU 2,SCU 3,SCU 4,SCU 5,SCU 6,SCU 7,SCU 8,SCU 9,SCU 10,SCU 11,SCU 12,SCU 13,SCU 14,SCU 15,SCU 16,SCU 17,SCU 18
 177.072,0.146235,0.26914,0.208909,0.715303,0.166129,0.321581,0.170376,0.221845,0.249611,0.257818,0.229222,0.568741,0.276093,0.178377,0.165413,0.211329,0.224006,0.36455
 354.144,0.044841,0.080633,0.059426,0.241064,0.0463,0.10913,0.049536,0.064649,0.07482,0.07682,0.069049,0.184668,0.090751,0.051928,0.045952,0.064078,0.059692,0.1285
 531.216,0.023507,0.045668,0.03181,0.145959,0.022286,0.068685,0.027701,0.039115,0.040834,0.048665,0.035978,0.111288,0.052541,0.024169,0.022562,0.037347,0.031434,0.086216
