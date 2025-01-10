@@ -3,41 +3,41 @@
 # datatype:
 # - {name: time, unit: s, datatype: float64, description: Time}
 # - {name: SCA 1, unit: electron / s, datatype: float64, description: Roman/WFI persistence measurements over time for sensor chip assembly
-#     (SCA) 1 at nominational operating temperture (89.5K)}
+#     (SCA) 1 at nominal operating temperture (89.5K)}
 # - {name: SCA 2, unit: electron / s, datatype: float64, description: Roman/WFI persistence measurements over time for sensor chip assembly
-#     (SCA) 2 at nominational operating temperture (89.5K)}
+#     (SCA) 2 at nominal operating temperture (89.5K)}
 # - {name: SCA 3, unit: electron / s, datatype: float64, description: Roman/WFI persistence measurements over time for sensor chip assembly
-#     (SCA) 3 at nominational operating temperture (89.5K)}
+#     (SCA) 3 at nominal operating temperture (89.5K)}
 # - {name: SCA 4, unit: electron / s, datatype: float64, description: Roman/WFI persistence measurements over time for sensor chip assembly
-#     (SCA) 4 at nominational operating temperture (89.5K)}
+#     (SCA) 4 at nominal operating temperture (89.5K)}
 # - {name: SCA 5, unit: electron / s, datatype: float64, description: Roman/WFI persistence measurements over time for sensor chip assembly
-#     (SCA) 5 at nominational operating temperture (89.5K)}
+#     (SCA) 5 at nominal operating temperture (89.5K)}
 # - {name: SCA 6, unit: electron / s, datatype: float64, description: Roman/WFI persistence measurements over time for sensor chip assembly
-#     (SCA) 6 at nominational operating temperture (89.5K)}
+#     (SCA) 6 at nominal operating temperture (89.5K)}
 # - {name: SCA 7, unit: electron / s, datatype: float64, description: Roman/WFI persistence measurements over time for sensor chip assembly
-#     (SCA) 7 at nominational operating temperture (89.5K)}
+#     (SCA) 7 at nominal operating temperture (89.5K)}
 # - {name: SCA 8, unit: electron / s, datatype: float64, description: Roman/WFI persistence measurements over time for sensor chip assembly
-#     (SCA) 8 at nominational operating temperture (89.5K)}
+#     (SCA) 8 at nominal operating temperture (89.5K)}
 # - {name: SCA 9, unit: electron / s, datatype: float64, description: Roman/WFI persistence measurements over time for sensor chip assembly
-#     (SCA) 9 at nominational operating temperture (89.5K)}
+#     (SCA) 9 at nominal operating temperture (89.5K)}
 # - {name: SCA 10, unit: electron / s, datatype: float64, description: Roman/WFI persistence measurements over time for sensor chip assembly
-#     (SCA) 10 at nominational operating temperture (89.5K)}
+#     (SCA) 10 at nominal operating temperture (89.5K)}
 # - {name: SCA 11, unit: electron / s, datatype: float64, description: Roman/WFI persistence measurements over time for sensor chip assembly
-#     (SCA) 11 at nominational operating temperture (89.5K)}
+#     (SCA) 11 at nominal operating temperture (89.5K)}
 # - {name: SCA 12, unit: electron / s, datatype: float64, description: Roman/WFI persistence measurements over time for sensor chip assembly
-#     (SCA) 12 at nominational operating temperture (89.5K)}
+#     (SCA) 12 at nominal operating temperture (89.5K)}
 # - {name: SCA 13, unit: electron / s, datatype: float64, description: Roman/WFI persistence measurements over time for sensor chip assembly
-#     (SCA) 13 at nominational operating temperture (89.5K)}
+#     (SCA) 13 at nominal operating temperture (89.5K)}
 # - {name: SCA 14, unit: electron / s, datatype: float64, description: Roman/WFI persistence measurements over time for sensor chip assembly
-#     (SCA) 14 at nominational operating temperture (89.5K)}
+#     (SCA) 14 at nominal operating temperture (89.5K)}
 # - {name: SCA 15, unit: electron / s, datatype: float64, description: Roman/WFI persistence measurements over time for sensor chip assembly
-#     (SCA) 15 at nominational operating temperture (89.5K)}
+#     (SCA) 15 at nominal operating temperture (89.5K)}
 # - {name: SCA 16, unit: electron / s, datatype: float64, description: Roman/WFI persistence measurements over time for sensor chip assembly
-#     (SCA) 16 at nominational operating temperture (89.5K)}
+#     (SCA) 16 at nominal operating temperture (89.5K)}
 # - {name: SCA 17, unit: electron / s, datatype: float64, description: Roman/WFI persistence measurements over time for sensor chip assembly
-#     (SCA) 17 at nominational operating temperture (89.5K)}
+#     (SCA) 17 at nominal operating temperture (89.5K)}
 # - {name: SCA 18, unit: electron / s, datatype: float64, description: Roman/WFI persistence measurements over time for sensor chip assembly
-#     (SCA) 18 at nominational operating temperture (89.5K)}
+#     (SCA) 18 at nominal operating temperture (89.5K)}
 # delimiter: ','
 # meta: !!omap
 # - {comments: Roman/WFI persistence measurements}

@@ -3,9 +3,9 @@
 # datatype:
 # - {name: SCU, unit: '', datatype: string, description: Sensor Control Unit Number}
 # - {name: SCA, unit: '', datatype: string, description: Sensor Chip Assembly Number}
-# - {name: Dark Current - Median, unit: electron / s, datatype: float64, description: Roman/WFI dark current (median) at nominational
-#     operating temperture (89.5K)}
-# - {name: Dark Current - Mean, unit: electron / s, datatype: float64, description: Roman/WFI dark current (mean) at nominational operating
+# - {name: Dark Current - Median, unit: electron / s, datatype: float64, description: Roman/WFI dark current (median) at nominal operating
+#     temperture (89.5K)}
+# - {name: Dark Current - Mean, unit: electron / s, datatype: float64, description: Roman/WFI dark current (mean) at nominal operating
 #     temperture (89.5K)}
 # - {name: Percentage Passing Requirement, unit: '%', datatype: float64, description: Roman/WFI number of pixels passing dark current
 #     requirement (0.05 e-/sec)}

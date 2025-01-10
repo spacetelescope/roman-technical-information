@@ -4,9 +4,9 @@
 # - {name: SCU, unit: '', datatype: string, description: Sensor Control Unit Number}
 # - {name: SCA, unit: '', datatype: string, description: Sensor Chip Assembly Number}
 # - {name: CDS Noise - Median, unit: electron, datatype: float64, description: Roman/WFI correlated double sampling (CDS) noise (median)
-#     at nominational operating temperture (89.5K)}
+#     at nominal operating temperture (89.5K)}
 # - {name: CDS Noise - Mean, unit: electron, datatype: float64, description: Roman/WFI correlated double sampling (CDS) noise (mean) at
-#     nominational operating temperture (89.5K)}
+#     nominal operating temperture (89.5K)}
 # delimiter: ','
 # meta: !!omap
 # - {comments: Roman/WFI correlated double sampling (CDS) noise summary}

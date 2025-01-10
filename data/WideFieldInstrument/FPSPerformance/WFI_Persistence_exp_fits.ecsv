@@ -1,7 +1,7 @@
 # %ECSV 1.0
 # ---
 # datatype:
-# - {name: SCA, unit: '', datatype: int64, description: Roman/WFI sensor chip assembly (SCA)}
+# - {name: SCU, unit: '', datatype: int64, description: Roman/WFI sensor control unit (SCU)}
 # - {name: a, unit: electron / s, datatype: float64, description: Coefficient 'a' of an exponential fit (= a*exp(-b*x) + d*exp(-e*x) +
 #     c) to the Roman/WFI median persistence}
 # - {name: b, unit: 1 / s, datatype: float64, description: Coefficient 'b' of an exponential fit (= a*exp(-b*x) + d*exp(-e*x) + c) to
@@ -14,9 +14,9 @@
 #     the Roman/WFI median persistence}
 # delimiter: ','
 # meta: !!omap
-# - {comments: Roman/WFI coefficients of an exponential fit to persistence measurements}
+# - {comments: Roman/WFI coefficients of an exponential fit to persistence decay measurements}
 # schema: astropy-2.0
-SCA,a,b,c,d,e
+SCU,a,b,c,d,e
 1,0.0630975242491005,0.00223961641358588,0.00257429338240526,0.746862190043635,0.011286859153504
 2,0.113667333605889,0.00208090919789521,0.00529851744032986,1.63240804741764,0.012290801561742
 3,0.127692713448231,0.0028105284087841,0.002995637210518,1.79386542406018,0.0148971770132734
