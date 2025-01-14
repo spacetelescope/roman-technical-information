@@ -7,6 +7,7 @@ These measurements were performed on either individual flight SCAs in the NASA G
 | Filename| Description|
 |---------|------------|
 | WFI_SCU_to_SCA.ecsv | Roman/WFI SCU to SCA mapping. |
+| WFI_detector_array_SCU_SCA_labeled.png | Roman/WFI detector array with labeled Sensor Control Unit (SCU) numbers and Sensor Chip Assembly (SCA) serial numbers. |
 | WFI_CDS_Noise_summary.ecsv | Roman/WFI TVAC2 NomOp correlated double sampling (CDS) noise measurements (mean and medians) for each SCA. |
 | WFI_Dark_current_summary.ecsv | Roman/WFI TVAC2 NomOp dark current measurements (means, medians, and percentage of pixels passing the dark current requirement) for each SCA. NOTE: These measurements are representative of the instrument internal thermal background rather than the true dark current floor of the detectors. |
 | WFI_Persistence_summary.ecsv | Roman/WFI TVAC2 NomOp persistence measurements as a function of time for each SCA. The persistence decay was measured using 10 regularly spaced darks spanning at total time of 1770 secs (~30 min) following exposures of 56 frames each where the detectors were exposed to ~900 e-/s flat field illumination, for a total of ~159 ke- of charge accumulation. |
