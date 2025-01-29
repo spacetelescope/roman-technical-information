@@ -18,7 +18,7 @@
 # - {name: ZSASS_neg, unit: '', datatype: float64, description: Unit vectors for normal to Solar Array/Sun Shield for neg. declination.}
 # delimiter: ','
 # meta: !!omap
-# - {comments: Unit vectors for Sun and normal to Solar Array/Sun Shield for declination = +/-60.0 degrees and right ascension = 90 degrees.}
+# - {comments: Roman unit vectors for Sun and normal to Solar Array/Sun Shield for declination = +/-60.0 degrees and right ascension = 90 degrees.}
 # - {last updated: 2024-June-03}
 # schema: astropy-2.0
 Month,Day,RA_sun,DEC_sun,XSun,YSun,ZSun,roll_pos,XSASS_pos,YSASS_pos,ZSASS_pos,roll_neg,XSASS_neg,YSASS_neg,ZSASS_neg

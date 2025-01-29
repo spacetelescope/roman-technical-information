@@ -1,5 +1,5 @@
 ---
-Description: Roman Coronagraph Instrument Detector (EXCAM) Parameters
+Description: Roman Coronagraph EXCAM detector properties.
 
 Detector_Model: T-e2v CCD 311
 Pixels_X: 1056
@@ -12,7 +12,7 @@ Saturation: 90000 e-
 Readnoise: 165 e-
 
 Dark_Current:
-  Description: Mean CGI dark current for T = 185 K (end of life current best estimate)
+  Description: Mean CGI dark current for T = 185 K
   Beginning_of_Life_Current_Best_Estimate_185_K: 3.6 e-/pixel/hour
   End_of_Life_Current_Best_Estimate_185_K: 6.6 e-/pixel/hour
 

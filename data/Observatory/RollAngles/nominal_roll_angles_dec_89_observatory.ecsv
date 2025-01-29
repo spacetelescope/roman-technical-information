@@ -19,7 +19,7 @@
 #     for neg. declination.}
 # delimiter: ','
 # meta: !!omap
-# - {comments: Observatory roll angle and body axes to Sun angles for declination = +/-89.0 degrees and right ascension = 90 degrees.}
+# - {comments: Roman observatory roll angle and body axes to Sun angles for declination = +/-89.0 degrees and right ascension = 90 degrees.}
 # - {last updated: 2024-June-03}
 # schema: astropy-2.0
 Month,Day,RA_sun,DEC_sun,roll_pos,x2sun_pos,y2sun_pos,z2sun_pos,pitch_OK_pos,roll_neg,x2sun_neg,y2sun_neg,z2sun_neg,pitch_OK_neg

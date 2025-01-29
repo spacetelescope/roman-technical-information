@@ -1,4 +1,6 @@
 ---
+Description: Roman Coronagraph properties of its spectroscopy mode (Bands 2 and 3).
+
 Field_of_View_Unvignetted_No_Masks: 4 arcsec
 Footprint_of_Dispersed_Point_Source_Band2: 42x4 pixels
 Footprint_of_Dispersed_Point_Source_Band3: 47x4 pixels
