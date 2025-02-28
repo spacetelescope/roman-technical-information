@@ -1,5 +1,5 @@
 ---
-Description: Roman telescope example slew angles and associated slew times.
+Description: Roman telescope example slew angles and associated slew+settle times.
 
 slew_type:
   gap_fill:
